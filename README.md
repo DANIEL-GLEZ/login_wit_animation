@@ -17,21 +17,22 @@ login_bear_animation is a Flutter demo application that showcases a dynamic logi
     ❌ If the validation fails or the credentials are incorrect, a failure animation (trigFail) is activated to indicate the error to the user.
 ## 💡 What is Rive and the State Machine?
 
-Rive is a robust tool for developing high-quality, interactive vector animations that are synchronized with the application's logic and run in real-time. It allows the application's code to directly control the animation flow.
+- Rive is a robust tool for developing high-quality, interactive vector animations that are synchronized with the application's logic and run in real-time. It allows the application's code to directly control the animation flow.
 
-A State Machine is Rive's central component. It is a logical system that manages the transitions between different animation sequences based on the inputs it receives (such as SMIBool or SMITrigger) from the Flutter code.
+- A State Machine is Rive's central component. It is a logical system that manages the transitions between different animation sequences based on the inputs it receives (such as SMIBool or SMITrigger) from the Flutter code.
 
-In this project, the state machine named "Login Machine" is responsible for orchestrating all the character's reactions throughout the login interaction.
+- In this project, the state machine named "Login Machine" is responsible for orchestrating all the character's reactions throughout the login interaction.
 
 
-## Academic Information
+## 🎓 Academic Information
 Subject: Graficación
 Instructor: Rodrigo Fidel Gaxiola Sosa 
 
-## 🥳Credits
-Animated Login Character
-JcToon
-link: https://rive.app/marketplace/2244-7248-animated-login-character
 
 ## DEMO
 ![](https://github.com/DANIEL-GLEZ/login_wit_animation/blob/main/Bear%20video.gif)
+
+## 🥳Credits
+- Animated Login Character
+- JcToon
+- link: https://rive.app/marketplace/2244-7248-animated-login-character
