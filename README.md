@@ -24,3 +24,4 @@ A State Machine is Rive's central component. It is a logical system that manages
 In this project, the state machine named "Login Machine" is responsible for orchestrating all the character's reactions throughout the login interaction.
 
   
+![](https://github.com/DANIEL-GLEZ/login_wit_animation/blob/main/Bear%20video.gif)
