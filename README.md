@@ -1,5 +1,5 @@
 ## 🔐 Animated Login UI with Rive 🐻
-
+![](https://github.com/DANIEL-GLEZ/login_wit_animation/blob/main/Prueba%201.png)
 A Flutter login interface developed with an interactive Rive animation.
 
 ## 📄 Project Description
